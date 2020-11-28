@@ -1,0 +1,10 @@
+package com.chunppo;
+
+import com.chunppo.child
+
+public class parent {
+    public static void main(String[] args) {
+        new
+        System.out.println("TEST");
+    }
+}
